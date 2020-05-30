@@ -1,0 +1,3 @@
+﻿  Application3.cpp
+c:\users\grin\source\repos\application3\application3\application3.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Application3.vcxproj -> C:\Users\GRIN\source\repos\Application3\Debug\Application3.exe
