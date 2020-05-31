@@ -1,0 +1,3 @@
+﻿  ApplicationDop.cpp
+c:\users\grin\source\repos\30\applicationdop\applicationdop\applicationdop.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ApplicationDop.vcxproj -> C:\Users\GRIN\source\repos\30\ApplicationDop\Debug\ApplicationDop.exe
